@@ -1,0 +1,40 @@
+body {
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #1b2033;
+  font-family: 'Oxygen', sans-serif;  
+}
+
+#header-nav {
+  background-color: #cdbeff;
+  color: #000000;
+}
+
+#logo-img {
+  background: url('../img/severus.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0; 
+}
+
+.navbar-brand {
+  padding: 20px;
+}
+
+.navbar-brand h1 {
+  color: #2d2622;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+.navbar-brand a:link {
+  text-decoration: none;
+}
+
+.navbar-brand p {
+  margin: 0px;
+}
+
+#navbar-quote {
+  font-size: 1.2em;
+}
