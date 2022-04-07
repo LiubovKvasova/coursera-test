@@ -5,6 +5,7 @@ body {
   font-family: 'Oxygen', sans-serif;  
 }
 
+/* HEADER */
 #header-nav {
   background-color: #cdbeff;
   color: #000000;
@@ -38,3 +39,18 @@ body {
 #navbar-quote {
   font-size: 1.2em;
 }
+
+#navbarNav a{
+  color: #1b2033;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+#navbarNav a:hover {
+  background-color: #1b203341;
+}
+
+#navbarNav i {
+  padding-right: 5px;
+}
+/* END HEADER */
