@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #ffffff;
-  background-color: #1b2033;
+  background-color: #120a26;
   font-family: 'Oxygen', sans-serif;  
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 #navbarNav a{
-  color: #1b2033;
+  color: #120a26;
   text-align: center;
   font-size: 1.5em;
 }
@@ -92,3 +92,23 @@ body {
   opacity: 0.8;
 }
 
+/* FOOTER */
+.card-footer {
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  background-color: #090513;
+}
+.card-footer div.row {
+  margin-bottom: 35px;
+}
+#footer-names {
+  line-height: 1.8;
+}
+#footer-info span, #footer-names span {
+  font-size: 1.3em;
+}
+#footer-quotes {
+  font-style: italic;
+}
+/* END FOOTER */
