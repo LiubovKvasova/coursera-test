@@ -55,7 +55,7 @@ body {
 }
 /* END HEADER */
 
-/* MAIN */
+/* HOME PAGE */
 #my-love-tile, #magic-tile, #map-tile {
   height: 250px;
   width: 100%;
@@ -91,6 +91,47 @@ body {
   color: #ffffff;
   opacity: 0.8;
 }
+/* END HOME PAGE */
+
+/* MAGIC PAGE */
+#magic-title {
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 2.3em;
+}
+
+.magic-quote {
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.category-tile {
+  position: relative;
+  overflow: hidden;
+  width: 300px;
+  height: 200px;
+  margin: 0 auto 15px;
+  border: 2px solid #000000;
+}
+
+.category-tile span {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.2em;
+  background-color: #000000;
+  color: #ffffff;
+  opacity: 0.8;
+}
+
+.category-tile:hover {
+  box-shadow: 0px 1px 5px 1px #cdbeff;
+}
+
+/* END MAGIC PAGE */
 
 /* FOOTER */
 .card-footer {
