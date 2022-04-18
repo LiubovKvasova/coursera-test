@@ -1,0 +1,29 @@
+hr {
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+/* HEADER */
+#navbarNav ul {
+  background-color: #2b2d31;
+  text-align: center;
+}
+/* END HEADER */
+
+/* MAIN PAGE*/
+#main-title {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.main-tile {
+  height: 1000px;
+  background-color: #dde5f9
+}
+
+.main-tile h3 {
+  font-size: 1.2em;
+  text-align: center;
+}
+/* END MAIN PAGE*/
